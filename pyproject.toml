@@ -16,5 +16,6 @@ dependencies = [
     "sweetviz>=2.3.3",
     "torch>=2.13.0",
     "torchaudio>=2.11.0",
+    "torchmetrics>=1.9.0",
     "torchvision>=0.28.0",
 ]
